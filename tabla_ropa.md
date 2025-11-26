@@ -5,3 +5,4 @@
 | Playera C redondo roja|
 | Chaqueta cuero negra  |
 | Calcetas Panam cafes  |
+| Vestido graduacion rojo|
