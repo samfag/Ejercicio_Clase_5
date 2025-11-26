@@ -6,3 +6,5 @@
 | Chaqueta cuero negra  |
 | Calcetas Panam cafes  |
 | Sudadera Cafe         |
+| Tenis blancos         |
+| Pantalon vestir negro |
