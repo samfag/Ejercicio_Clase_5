@@ -6,3 +6,6 @@
 | Chaqueta cuero negra  |
 | Calcetas Panam cafes  |
 | Vestido graduacion rojo|
+| Sudadera Cafe         |
+| Tenis blancos         |
+| Pantalon vestir negro |
